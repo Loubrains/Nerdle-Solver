@@ -192,4 +192,3 @@ class PossibleSolutions:
 game_state = {"guesses":["12+34=46"],"solution":"9*9-6=75","gameMode":""}
 
 game_loop()
-
